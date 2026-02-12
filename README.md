@@ -12,24 +12,10 @@
 
 <br/>
 
-<!-- 核心数据统计 (包含奖杯、详细数据、语言占比) -->
-<div align="center">
-  <!-- 这里的 GitHub Trophies 会根据你的贡献自动生成奖杯 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ppaet&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
-  
-  <br/><br/>
-
-  <!-- 个人数据卡片 & 常用语言 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppaet&show_icons=true&theme=radical&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaet&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- 技术栈图标 (你可以根据实际情况删除不需要的图标) -->
+<!-- 技术栈图标 (你可以根据实际情况删除不需要的图标,https://github.com/tandpfun/skill-icons#readme) -->
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,vue,nodejs,spring,mysql,redis,docker,git,linux,vscode,idea&perline=15" />
+  <img src="https://skillicons.dev/icons?i=java,go,vue,spring,mysql,postgres,redis,rabbitmq,elasticsearch,docker,git,linux,vscode,idea,jenkins,grafana,postman&perline=15" />
 </div>
 
 <br/>
